@@ -1,0 +1,63 @@
+body{
+  background: rgb(245,245,245);
+  color: green;
+  font-size: 25px;
+  font-family: Helvetica;
+}
+h1{
+  font-family: Courier;
+  color: red;
+  font-weight: lighter;
+  font-size: 10px;
+}
+h2 {
+  font-family: Courier;
+  color: pink;
+  font-weight: lighter;
+  font-size: 8px;
+}
+a {
+  color: yellow;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
+
+div.canda {
+  width: 900px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+  background-image: url("1200px-Flag_of_Canada_(Pantone).svg.png");
+}
+
+#second{
+  position:relative; left:300px; top:2px; background-color:white;
+}
+
+
+div.government {
+  width: 900px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+  background-image: url("1200px-Flag_of_Canada_(Pantone).svg.png");
+}
+
+
+div.corona {
+  width: 900px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+  background-image: url("1200px-Flag_of_Canada_(Pantone).svg.png");
+}
+
+
+#third{
+  position:relative; left:600px; top:2px; background-color:white;
+}
+
+
+#fourth { position: absolute; margin-left: -27px; }
