@@ -29,7 +29,7 @@ div.canda {
   border: 15px solid green;
   padding: 50px;
   margin: 20px;
-  background-image: url("1200px-Flag_of_Canada_(Pantone).svg.png");
+  background-image: url();
 }
 
 #second{
@@ -51,7 +51,7 @@ div.corona {
   border: 15px solid green;
   padding: 50px;
   margin: 20px;
-  background-image: url("1200px-Flag_of_Canada_(Pantone).svg.png");
+  background-image: url("/content/dam/canada/carousel/bkg-home-banner-fall-v2.jpg");
 }
 
 
@@ -61,3 +61,30 @@ div.corona {
 
 
 #fourth { position: absolute; margin-left: -27px; }
+
+
+
+
+body{
+  background-image: url("https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fd%2Fd9%2FFlag_of_Canada_%2528Pantone%2529.svg%2F1200px-Flag_of_Canada_%2528Pantone%2529.svg.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCanada&tbnid=0f9b-xheLhG9SM&vet=12ahUKEwjiwO_hs__rAhUY8RoKHTYyDzAQMygAegUIARDLAQ..i&docid=aHH35aAThFy62M&w=1200&h=600&q=canada&ved=2ahUKEwjiwO_hs__rAhUY8RoKHTYyDzAQMygAegUIARDLAQ");
+}
+
+
+
+
+.bottomtotop { transform:rotate(270deg); }
+
+
+
+
+.navbar{ background:#F97300;}
+
+.nav-link , .navbar-brand{ color: #f4f4f4; cursor: pointer;}
+
+.nav-link{ margin-right: 1em !important;}
+
+.nav-link:hover{ background: #f4f4f4; color: #f97300; }
+
+.navbar-collapse{ justify-content: flex-end;}
+
+.navbar-toggler{  background:#fff !important;}
